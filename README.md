@@ -12,12 +12,11 @@ The repository is organized into the following structure:
 - **Medium**: This folder contains coding challenges of medium difficulty.
  
 - **Hard**: This folder contains coding challenges of hard difficulty.
-  
-- **Tests**: This folder contains test files for the challenges in each difficulty level. These files are located in the root directory of the repository.
 
   > - Each challenge has its own dedicated folder. 
   > - Inside each challenge folder, there is a file with the solution code.
-  > - The problem statement is written at the beginning of the solution file inside double quotes."
+  > - The problem statement is written at the beginning of the solution file inside double quotes.
+  > - Each task has tests 
 
 ## Getting Started
 
