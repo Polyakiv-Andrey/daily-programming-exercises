@@ -8,19 +8,16 @@ This repository is a personal collection of daily coding challenges solved using
 The repository is organized into the following structure:
 
 - **Easy**: This folder contains coding challenges of easy difficulty.
-  - Each challenge has its own dedicated folder.
-  - Inside each challenge folder, there is a file with the problem statement and a file with the solution code.
-  - Additionally, there is a file named "tests.py" that contains test cases specifically designed for easy challenges.
-
+ 
 - **Medium**: This folder contains coding challenges of medium difficulty.
-  - Each challenge has its own dedicated folder.
-  - Inside each challenge folder, there is a file with the problem statement and a file with the solution code.
-  - Additionally, there is a file named "tests.py" that contains test cases specifically designed for medium challenges.
-
+ 
 - **Hard**: This folder contains coding challenges of hard difficulty.
-  - Each challenge has its own dedicated folder.
-  - Inside each challenge folder, there is a file with the problem statement and a file with the solution code.
-  - Additionally, there is a file named "tests.py" that contains test cases specifically designed for hard challenges.
+  
+- **Tests**: This folder contains test files for the challenges in each difficulty level. These files are located in the root directory of the repository.
+
+  > - Each challenge has its own dedicated folder. 
+  > - Inside each challenge folder, there is a file with the solution code.
+  > - The problem statement is written at the beginning of the solution file inside double quotes."
 
 ## Getting Started
 
